@@ -21,9 +21,9 @@ In JavaScript, an array is a data structure that allows you to store and organiz
     4. [every() and some()](#4-every-and-some)
 3. [Reduction Methods](#reduction-methods)
     1.[reduce()](#1-reduce)
-4.Iteration Methods:
-1. [forEach()](#1-foreach)
-2. [map()](#2-map)
+4. [Iteration Methods](#iteration-methods)
+    1. [forEach()](#1-foreach)
+    2. [map()](#2-map)
 
 ## Mutators (Modify the original array):
 
