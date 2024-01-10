@@ -6,6 +6,7 @@ This repository contains implementations and explanations of various data struct
 
 1. Data Structures
    - [1. Array](data%20structures/array/Readme.md)
+   - [2. HashTable](data%20structures/hashTable/Readme.md)
 2. Algorithms
    - [1. Sorting](algorithms/sort/Readme.md)
      - [1.1 Bubble Sort](algorithms/sort/Readme.md)
